@@ -1,8 +1,9 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
+  margin: 50px;
 }
 
-#titulo {
+h1 {
   text-align: center;
   color: #111;
 }
@@ -10,25 +11,27 @@ body {
 .item {
   background: #111;
   border-radius: 4px;
-  padding: 10px;
+  padding: 30px;
   margin: 20px;
-   
 }
 
-.subtitulo {
+h2 {
   color: white;
 }
 
-.texto {
+p {
   color: #b2b2b2;
 }
 
-.amarelo {
+span {
   color: #febe01;
 }
 
-.botao {
+a {
   background: #febe01;
+  color: #332200;
   border-radius: 4px;
-  
+  text-decoration: none;
+  padding: 10px;
+  display: inline-block;
 }
