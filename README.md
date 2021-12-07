@@ -17,7 +17,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ![Página]()
 -->
 
-*Link do projeto:* https://jvmsantos13.github.io/Desafio-Display/
+*Link do projeto:* https://jvmsantos13.github.io/desafio-display/
 
 ## Autor
 João Victor Monteiro <br />
